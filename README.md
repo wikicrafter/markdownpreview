@@ -42,7 +42,7 @@ _You **can** combine them_ ```_You **can** combine them_ ```
 
 ## Links ```## Links ```
 
-You may be using [oh shit git](https://ohshitgit.com/). ```You may be using [Git example](https://ohshitgit.com/). ```
+You may be using [ohshitgit](https://ohshitgit.com/). ```You may be using [ohshitgit ](https://ohshitgit.com/). ```
 
 ## Blockquotes ```## Blockquotes ```
 
