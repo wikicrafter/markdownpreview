@@ -42,7 +42,7 @@ _You **can** combine them_ ```_You **can** combine them_ ```
 
 ## Links ```## Links ```
 
-You may be using [Markdown Live Preview](https://markdownlivepreview.com/). ```You may be using [Markdown Live Preview](https://markdownlivepreview.com/). ```
+You may be using [oh shit git](https://ohshitgit.com/). ```You may be using [Markdown Live Preview](https://markdownlivepreview.com/). ```
 
 ## Blockquotes ```## Blockquotes ```
 
