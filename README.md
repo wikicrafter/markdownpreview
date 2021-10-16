@@ -71,8 +71,9 @@ let message = 'Hello world'; <br>
 alert(message);
 
 ```
-let message = 'Hello world';
+let message = 'Hello world'; <br>
 alert(message);
+
 ```
 
 <hr>
