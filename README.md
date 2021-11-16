@@ -58,7 +58,8 @@ You may be using [ohshitgit](https://ohshitgit.com/). ```You may be using [ohshi
 | left bar      | right bar     |
 | left baz      | right baz     |
                                    
-```| Left columns  | Right columns |  
+```
+| Left columns  | Right columns |  
 | ------------- |:-------------:|
 | left foo      | right foo     |
 | left bar      | right bar     |
