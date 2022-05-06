@@ -68,8 +68,9 @@ You may be using [ohshitgit](https://ohshitgit.com/). ```You may be using [ohshi
 
 ## Blocks of code ```## Blocks of code ```
 
-let message = 'Hello world'; <br>
-alert(message);
+3 backticks at begining and end
+let message = 'Hello world'; <br> 
+alert(message); 
 
 ```
 let message = 'Hello world'; <br>
